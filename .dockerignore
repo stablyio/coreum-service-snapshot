@@ -1,0 +1,5 @@
+debug/
+.vscode/
+build/
+*.md
+*.env
